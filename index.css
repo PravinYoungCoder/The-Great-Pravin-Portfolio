@@ -1,0 +1,50 @@
+body {
+    background-image: url('robo.jpg');
+    background-size: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 190px;
+    height: 190px;
+    border-radius: 100px;
+    border: solid 10px white;
+}
+.introtext {
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+    background-color: black;
+    border: solid 10px goldenrod;
+    border-radius: 90px;
+}
+.pros {
+    background-color: red;
+    color: aqua;
+    font-size: large;
+    border: solid 10px goldenrod;
+}
+.header {
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    background-color: pink;
+    color: brown;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: italic;
+}
+.contact {
+    background-color: white;
+    height: 500px;
+    width: 1000px;
+    text-align: center;
+
+}
+.yt {
+    height: 100px;
+    width: 100px;
+}
